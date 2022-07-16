@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello </h2>
+<h2>This is the tomcat web page </h2>
 </body>
 </html>
